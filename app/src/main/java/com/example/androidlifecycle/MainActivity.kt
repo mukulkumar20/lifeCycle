@@ -8,6 +8,7 @@ import android.util.Log
 class MainActivity : AppCompatActivity() {
 
     private val Tag = "MainActivity"
+    /*Hey boy*/
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
